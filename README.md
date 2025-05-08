@@ -11,7 +11,6 @@ Repositorio: [jhernandez68/fastapi-movies](https://github.com/jhernandez68/fasta
 - CRUD de géneros (`/genres`)
 - CRUD de películas (`/movies`)
 - Relación de cada película con un género
-- Fixtures para poblar datos iniciales
 - Documentación automática via OpenAPI (Swagger UI)
 
 ---
